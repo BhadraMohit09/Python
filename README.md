@@ -1,3 +1,5 @@
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=9823f5&height=150&section=header)
+
 # Sem 4 Python
 
 Welcome to the **Sem 4 Python** repository! This repository contains Python programs and lab manuals covered in the Semester 4 Python Lab.
